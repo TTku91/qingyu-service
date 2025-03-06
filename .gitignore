@@ -6,3 +6,5 @@ conf.json
 *.png
 /apiclient_cert.pem
 /apiclient_key.pem
+.idea
+pkg/mod
